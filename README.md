@@ -1,71 +1,83 @@
-# Getting Started with Create React App
+<div align="center">
+    <a href="https://gericht-restaurant-fv.netlify.app" target="_blank">
+      <img src="public/design/preview.webp" alt="Project Banner">
+    </a>
+  <h3 align="center">Gericht Restaurant</h3>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  <br /> 📋 <a name="table">Table of Contents</a>
 
-## Available Scripts
+- ✨ [Introduction](#introduction)
+- ⚙️ [Tech Stack](#tech-stack)
+- 📝 [Features](#features)
+- 🚀 [Quick Start](#quick-start)
 
-In the project directory, you can run:
+##  <br /> <a name="introduction">✨ Introduction</a>
 
-### `npm start`
+[EN] This restaurant landing page showcases a contemporary design developed using React, emphasizing reusable functional components and a well-organized file and folder structure. It emphasizes mastery of fundamental CSS properties such as flex for flexible layout design. Responsive design is ensured with meticulously implemented media queries, optimizing display across all devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[FR] Cette page d'accueil présente un design contemporain développé avec React, mettant l'accent sur l'utilisation de composants fonctionnels réutilisables et une structure de fichiers bien organisée. Elle en avant la maîtrise des propriétés CSS fondamentales telles que flex pour des designs de mise en page flexibles. Le design responsive est assuré grâce à des media queries soigneusement implémentées, optimisant l'affichage sur tous les appareils.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-### `npm test`
+- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML / CSS / JavaScript
 
-### `npm run build`
+## <br/> <a name="features">📝 Features</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉 **Importing CSS Files**: Import CSS files into others, promoting modularity and organization in styling.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👉 **Flex and Position Properties**: Use of flex and position properties in CSS to create responsive and well-structured layouts.
 
-### `npm run eject`
+👉 **Rendering HTML through JavaScript**: Rendering HTML through JavaScript using reusable functions, enhancing code efficiency.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👉 **Smooth Animations**: Smooth and subtle animations to enhance the overall user experience, focusing on fluid transitions.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👉 **BEM Method**: Follow the Block Element Modifier (BEM) methodology for naming classes, promoting a clear and maintainable structure.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+👉 **Organized File and Folder Structure**: Maintain a well-organized file and folder structure for easy navigation and management of project assets.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
-## Learn More
+## <br /> <a name="quick-start">🚀 Quick Start</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Follow these steps to set up the project locally on your machine.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br/>**Prerequisites**
 
-### Code Splitting
+Make sure you have the following installed on your machine:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### Analyzing the Bundle Size
+<br/>**Cloning the Repository**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+git clone {git remote URL}
+```
 
-### Making a Progressive Web App
+<br/>**Installation**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Let's install the project dependencies, from your terminal, run:
 
-### Advanced Configuration
+```bash
+npm install
+# or
+yarn install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br/>**Running the Project**
 
-### Deployment
+Installation will take a minute or two, but once that's done, you should be able to run the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+npm start
+# or
+yarn start
+```
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ui_restaurant-gericht
+Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
