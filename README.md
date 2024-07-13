@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-[EN] This restaurant landing page showcases a contemporary design developed using React, emphasizing reusable functional components and a well-organized file and folder structure. It emphasizes mastery of fundamental CSS properties such as flex for flexible layout design. Responsive design is ensured with meticulously implemented media queries, optimizing display across all devices.
+**[EN]** This restaurant landing page showcases a contemporary design developed using React, emphasizing reusable functional components and a well-organized file and folder structure. It emphasizes mastery of fundamental CSS properties such as flex for flexible layout design. Responsive design is ensured with meticulously implemented media queries, optimizing display across all devices.
 
-[FR] Cette page d'accueil présente un design contemporain développé avec React, mettant l'accent sur l'utilisation de composants fonctionnels réutilisables et une structure de fichiers bien organisée. Elle en avant la maîtrise des propriétés CSS fondamentales telles que flex pour des designs de mise en page flexibles. Le design responsive est assuré grâce à des media queries soigneusement implémentées, optimisant l'affichage sur tous les appareils.
+**[FR]** Cette page d'accueil présente un design contemporain développé avec React, mettant l'accent sur l'utilisation de composants fonctionnels réutilisables et une structure de fichiers bien organisée. Elle en avant la maîtrise des propriétés CSS fondamentales telles que flex pour des designs de mise en page flexibles. Le design responsive est assuré grâce à des media queries soigneusement implémentées, optimisant l'affichage sur tous les appareils.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
