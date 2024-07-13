@@ -2,7 +2,7 @@
     <a href="https://gericht-restaurant-fv.netlify.app" target="_blank">
       <img src="public/design/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Gericht Restaurant - React UI</h3>
+  <h3 align="center">Gericht Restaurant</h3>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
